@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:KovdryaVA_3ISP11_12"
         mc:Ignorable="d"
        Title="Auth" Height="700" Width="1150"
-         Background="#E0FFFF">
+         Background="#E0FFF1">
     <Grid>
         <Grid.RowDefinitions>
             <RowDefinition Height="90"/>
